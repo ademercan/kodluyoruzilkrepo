@@ -3,11 +3,13 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](https://www.gonuldergisi.com/wp-content/uploads/2019/08/96-resim.jpg)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığımız link gelecek)
 ```
-https://github.com/ademercan/kodluyoruzilkrepo.git
+git clone https://github.com/ademercan/kodluyoruzilkrepo.git
 ```
 ## Usage
 
@@ -26,4 +28,4 @@ istediğiniz tartışmak için bir konu açınız.
 
 ## License
 
-[Mit](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
